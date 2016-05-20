@@ -1,4 +1,6 @@
-[![Build Status](https://travis-ci.org/scidash/sciunit.svg?branch=dev)](https://travis-ci.org/scidash/sciunit)
+[![Build Status](https://travis-ci.org/scidash/sciunit.svg?branch=master)](https://travis-ci.org/scidash/sciunit) (master)
+
+[![Build Status](https://travis-ci.org/scidash/sciunit.svg?branch=dev)](https://travis-ci.org/scidash/sciunit) (dev)
 
 ![SciUnit Logo](https://raw.githubusercontent.com/scidash/assets/master/logos/sciunit.png)
 # SciUnit: A Test-Driven Framework for Formally Validating Scientific Models Against Data
